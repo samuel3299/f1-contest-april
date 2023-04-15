@@ -1,0 +1,126 @@
+/*
+	@name macbook_pro_16____1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container {display: block; position: relative; height: 12000px; width: 14000px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;}
+
+
+#overall_page1 {
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+#overall_page2 {
+	top: 0px;
+	left: 0px;
+	width: 1728px;
+	height: 2358px;
+	background:rgba(255,255,255,1);
+}
+
+#group_1 {
+	top: 94.46px;
+	left: 89px;
+	width: 1643px;
+	height: 661px;
+	font-size: 20px;
+}
+
+#the_beagle_blog_the_beagle_is_a_breed_of_small_scent_hound__similar_in_appearance_to_the_much_larger_foxhound__the_beagle_was_developed_primarily_for_hunting_hare__known_as_beagling__possessing_a_great_sense_of_smell_and_superior_tracking_instincts__the_beagle_is_the_primary_breed_used_as_a_detection_dog_for_prohibited_agricultural_imports_and_foodstuffs_in_quarantine_around_the_world__the_beagle_is_intelligent_and_is_a_popular_pet_due_to_its_size__good_temper__and_a_lack_of_inherited_health_problems__read_more {
+	top: 50px;
+	left: 76px;
+	width: 1540.51px;
+	height: 613.54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	line-height: 48.41px;
+	color:#000000;
+}
+
+
+#rectangle_1 {
+	top: 94.46px;
+	left: 89px;
+	width: 1643px;
+	height: 661.57px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#more_images {
+	top: 1750px;
+	left: 120px;
+	width: 290px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2 {
+	top: 742px;
+	left: 58px;
+	width: 245px;
+	height: 894px;
+}
+
+#images {
+	top: 60px;
+	left: 58px;
+	width: 1031px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	color:#000000;
+}
+
+
+#dog_1 {
+	top: 200px;
+	left: 58px;
+	width: 1051px;
+	height: 762px;
+}
+
+#group_3 {
+	top: 1795px;
+	left: 58px;
+	width: 1623px;
+	height: 469px;
+}
+
+#trivia_height___13_16_in__33_41_cm__weight___22_25_lb__10_0_11_3_kg__coat__short_haired__hard_coat_of_medium_length_colour__tricolor_or_white_in_combination_with_black___tan_brown_or_brown_tan_life_span___12_15_years {
+	top: 60px;
+	left: 58px;
+	width: 1542px;
+	height: 613px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 36px;
+	text-align:left;
+	line-height: 80px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
